@@ -27,8 +27,3 @@ describe('Loan calculator tests', function () {
 
    // end of Describe
 });
-
-// I want to know why the above does not work
-// It is grabbing a value from the input
-// That value is a string notated by the '100000' quotations around it
-// When i try to test this out in the Console it works and i just can't figure out
